@@ -5,7 +5,7 @@ This are some dorks to find the Bug Bounty Programs over the internet and Platfo
 
 ## Bug Bounty Dorks ##
 
-- [index of "responsible disclosure"](https://www.google.com/search?q=index of "responsible disclosure")
+- [index of "responsible disclosure"](https://www.google.com/search?q=index+of+%22responsible+disclosure%22&oq=index+of+%22responsible+disclosure%22&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
 - [inurl /bug bounty]https://www.google.com/search?q=inurl /bug bounty)
 - [inurl : /security](https://www.google.com/search?q=inurl : /security)
 - [inurl: security.txt](https://www.google.com/search?q=inurl: security.txt)
