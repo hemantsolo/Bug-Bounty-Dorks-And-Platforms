@@ -1,4 +1,4 @@
-Bug-Bounty-Dorks
+Bug-Bounty-Dorks And Platforms
 ===================
 This are some dorks to find the Bug Bounty Programs over the internet.
 ## How_to_use ##
