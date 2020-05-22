@@ -15,6 +15,7 @@
 - [Hackenproof](https://hackenproof.com/)
 - [Hacktrophy](https://hacktrophy.com/)
 - [CESPPA](https://www.cesppa.com/)
+- [Huntr](http://huntr.dev/)
 
 **Invite Based Platforms**
 
