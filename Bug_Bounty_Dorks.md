@@ -1,6 +1,7 @@
 ## Bug Bounty Dorks ##
 
 - [index of "responsible disclosure"](https://www.google.com/search?q=index+of+%22responsible+disclosure%22&oq=index+of+%22responsible+disclosure%22&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+- [inurl : /responsible-disclosure/ USD](https://www.google.com/search?q=inurl+%3A+%2Fresponsible-disclosure%2F+USD&oq=inurl+%3A+%2Fresponsible-disclosure%2F+USD&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
 - [inurl /bug bounty](https://www.google.com/search?q=inurl+%2Fbug+bounty&oq=inurl+%2Fbug+bounty&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
 - [inurl : /security](https://www.google.com/search?q=inurl+%3A+%2Fsecurity&oq=inurl+%3A+%2Fsecurity&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
 - [inurl: security.txt](https://www.google.com/search?q=inurl%3A+security.txt&oq=inurl%3A+security.txt&aqs=chrome..69i57j69i58&sourceid=chrome&ie=UTF-8)
