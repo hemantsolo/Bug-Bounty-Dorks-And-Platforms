@@ -1,38 +1,42 @@
 ## Bug Bounty Platforms ##
 
-**Open For Signup**
+### 🟢 Open For Signup
 
-- [Bugcrowd](https://www.bugcrowd.com/)
 - [HackerOne](https://www.hackerone.com/)
-- [OpenBugBounty](https://www.openbugbounty.org/)
+- [Bugcrowd](https://www.bugcrowd.com/)
+- [Open Bug Bounty](https://www.openbugbounty.org/)
 - [YesWeHack](https://www.yeswehack.com/)
-- [BountyFactory](https://bountyfactory.io/)
-- [Intigriti](https://intigriti.be/)
-- [Bugbountyjp](https://bugbounty.jp/)
-- [Safehats](https://safehats.com/)
-- [BugbountyHQ](https://www.bugbountyhq.com/)
-- [Hackerhive](https://hackerhive.io/)
-- [Hackenproof](https://hackenproof.com/)
+- [Intigriti](https://www.intigriti.com/)
+- [HackenProof](https://hackenproof.com/)
+- [SafeHats](https://safehats.com/)
+- [Bugbase](https://bugbase.in/)
+- [Bugv](https://bugv.io/)
+- [BugRap](https://bugrap.io/)
+- [BugBounty.jp](https://bugbounty.jp/)
+- [BugBounter](https://bugbounter.com/)
+- [BugZero](https://bugzero.io/)
+- [BugBountyHQ](https://www.bugbountyhq.com/)
+- [BugBountyZone](https://bugbountyzone.com/)
+- [BugBountySA](https://bugbounty.sa/)
 - [Hacktrophy](https://hacktrophy.com/)
 - [CESPPA](https://www.cesppa.com/)
+- [Cyber Army Indonesia](https://www.cyberarmy.id/)
+- [ArmorBounty (ArmorFi)](https://armor.fi/bounty)
 - [Code4rena](https://code4rena.com/)
 - [Immunefi](https://immunefi.com/)
-- [ArmorBounty](https://armor.fi/)
 - [Secure3](https://secure3.io/)
 - [Hats Finance](https://www.hats.finance/)
 - [0xProtocol Bounty](https://0x.org/bounty)
 - [Sherlock](https://www.sherlock.xyz/)
-- [ArmorFi Bounty](https://armor.fi/bounty)
 
-**Invite Based Platforms**
+---
+
+### 🔒 Invite Based Platforms
 
 - [Synack](https://www.synack.com/red-team/)
 - [Cobalt](https://cobalt.io/)
 - [Zerocopter](https://zerocopter.com/)
 - [Yogosha](https://www.yogosha.com/)
-- [Bugbountyzone](https://bugbountyzone.com/)
-- [Antihack.me](http://www.antihack.me/)
-- [Vulnscope](https://www.vulnscope.com/)
 - [Trickest](https://trickest.com/)
 - [Detectify Crowdsource](https://detectify.com/crowdsource/)
 - [Whitescope](https://www.whitescope.io/)
@@ -40,3 +44,9 @@
 - [Private Bug Bounty](https://privatebugbounty.com/)
 - [DarkBug](https://darkbug.org/)
 - [BitQuark](https://bitquark.co/)
+- [Crowdfense](https://www.crowdfense.com/)
+- [Zerodium](https://www.zerodium.com/)
+- [NSO Group](https://www.nsogroup.com/)
+- [Vulnscope](https://www.vulnscope.com/)
+- [Antihack.me](http://www.antihack.me/)
+- [RedStorm](https://redstorm.io/)
