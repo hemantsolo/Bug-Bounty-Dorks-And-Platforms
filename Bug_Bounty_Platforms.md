@@ -15,6 +15,14 @@
 - [Hackenproof](https://hackenproof.com/)
 - [Hacktrophy](https://hacktrophy.com/)
 - [CESPPA](https://www.cesppa.com/)
+- [Code4rena](https://code4rena.com/)
+- [Immunefi](https://immunefi.com/)
+- [ArmorBounty](https://armor.fi/)
+- [Secure3](https://secure3.io/)
+- [Hats Finance](https://www.hats.finance/)
+- [0xProtocol Bounty](https://0x.org/bounty)
+- [Sherlock](https://www.sherlock.xyz/)
+- [ArmorFi Bounty](https://armor.fi/bounty)
 
 **Invite Based Platforms**
 
@@ -25,3 +33,10 @@
 - [Bugbountyzone](https://bugbountyzone.com/)
 - [Antihack.me](http://www.antihack.me/)
 - [Vulnscope](https://www.vulnscope.com/)
+- [Trickest](https://trickest.com/)
+- [Detectify Crowdsource](https://detectify.com/crowdsource/)
+- [Whitescope](https://www.whitescope.io/)
+- [RedHunt Labs](https://redhuntlabs.com/)
+- [Private Bug Bounty](https://privatebugbounty.com/)
+- [DarkBug](https://darkbug.org/)
+- [BitQuark](https://bitquark.co/)
